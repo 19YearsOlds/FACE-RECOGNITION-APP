@@ -1,0 +1,14 @@
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\bin\Debug\net8.0\FaceRecognitionApp.exe
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\bin\Debug\net8.0\FaceRecognitionApp.deps.json
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\bin\Debug\net8.0\FaceRecognitionApp.runtimeconfig.json
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\bin\Debug\net8.0\FaceRecognitionApp.dll
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\bin\Debug\net8.0\FaceRecognitionApp.pdb
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\FaceRecognitionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\FaceRecognitionApp.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\FaceRecognitionApp.AssemblyInfo.cs
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\FaceRecognitionApp.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\FaceRecognitionApp.dll
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\refint\FaceRecognitionApp.dll
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\FaceRecognitionApp.pdb
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\FaceRecognitionApp.genruntimeconfig.cache
+D:\VISUAL STUDIO\5. FaceRecognitionProject\FaceRecognitionApp\obj\Debug\net8.0\ref\FaceRecognitionApp.dll
